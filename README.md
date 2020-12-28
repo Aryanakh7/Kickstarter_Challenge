@@ -2,7 +2,7 @@
 Kickstarter Challenge Final Version
 
 
-## **Purpose of the analysis**
+## **Purpose of the Analysis**
 
 This analysis was created to define and understand how different factors affected the outcome of projects in the Parent Category of “Theater” and the Subcategory of “Plays”. Furthermore, the relative relationship between the projects, their launch dates and funding are represented to provide a contextual explanation on the projects’ outcomes and identify data limitations and possible factors that could enhance and affect the outcome of future projects.
 
@@ -24,7 +24,7 @@ For the Outcomes Based on Goals, the analysis was conducted based on the dollar 
 
 One challenge that I encountered was making sure that the values entered in “number successful”, “number failed” and “number cancelled” matched the correct formula and had different values to reflect the goal (dollar amount criteria). An effective way to confirm that all the numbers match is to compare the sum of the outcome columns with COUNTIF>0. If there is a match, it means that the equations were done properly. 
 
-## **Results, limitations of the dataset and recommendations**
+## **Results, Llimitations of the Dataset and Recommendations**
 
 ####  *Conclusions about the Theater Outcomes by Launch Date*
 
@@ -34,7 +34,7 @@ After further analysis, there are several conclusions that can be drawn about th
 
 The main conclusion that can be derived from the Outcomes Based on Goals, is that the campaigns that had a goal of <$1000, $1000 to $4999 and $5000 to $9999, had a higher number of completed goals compared to other higher dollar amount categories. We can therefore conclude that the campaigns most likely to succeed had a goal of $1000 to $4999 and the ones least likely to have a successful outcome were the ones that had set a higher dollar amount target goal, in which case, the failed outcomes surpassed the successful ones. 
 
-####  *Limitations of the dataset*
+####  *Limitations of the Dataset*
 
 This dataset does not take into consideration the themes of the projects, and various demographical components, such as the theaters' advertised locations and the main target audience. Furthermore, the methods used to advertise projects and subsequently increase their funding are not mentioned. Analyzing and understanding the different methods used to advertise projects could have provided important insights regarding the outcome of these campaigns.
 
