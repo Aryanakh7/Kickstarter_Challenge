@@ -24,7 +24,7 @@ For the Outcomes Based on Goals, the analysis was conducted based on the dollar 
 
 One challenge that I encountered was making sure that the values entered in “number successful”, “number failed” and “number cancelled” matched the correct formula and had different values to reflect the goal (dollar amount criteria). An effective way to confirm that all the numbers match is to compare the sum of the outcome columns with COUNTIF>0. If there is a match, it means that the equations were done properly. 
 
-## **Results, Llimitations of the Dataset and Recommendations**
+## **Results, Limitations of the Dataset and Recommendations**
 
 ####  *Conclusions about the Theater Outcomes by Launch Date*
 
